@@ -46,12 +46,9 @@ Burada:
 ```
 PSO-Parcacik-Suru-Optimizasyonu/
 ├── README.md
-├── sunum/
-│   └── PSO_icerik.md
 ├── matlab_kodlari/
 │   ├── pso_ornek1.m
 │   ├── pso_ornek2.m
-│   └── sphere_function.m
 └── gorseller/
     └── sonuc_grafigi.png
 ```
